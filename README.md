@@ -2,7 +2,7 @@
 angular project with unzip the file and read its content
 
 
-![Demo Upload](./Demo_Unzip.webm)
+![Demo Upload](https://github.com/KrishnaAnanthi/unzip/blob/master/Demo_Unzip.webm)
 
 Ref: https://gildas-lormeau.github.io/zip.js/
 
