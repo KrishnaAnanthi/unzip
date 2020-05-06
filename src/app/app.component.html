@@ -1,0 +1,8 @@
+<input type="file" (change)="fileChanged($event)">
+
+<div *ngFor="let i of fileContent">
+    <hr />
+    {{i}}
+    <hr />
+</div>
+<router-outlet></router-outlet>
